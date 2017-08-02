@@ -1,3 +1,3 @@
 # landing-page
-Simple landing page
-https://github.com/OlejnikKristina/landing-page.git
+Simple landing page 'Notify'
+
